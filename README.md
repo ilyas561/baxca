@@ -1,2 +1,0 @@
-# baxca
-kindergarden project
